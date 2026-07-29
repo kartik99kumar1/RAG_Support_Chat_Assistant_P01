@@ -147,3 +147,8 @@ This project is licensed under the MIT License.
 <div align="center">
 Made with ⚡ by <a href="https://github.com/kartik99kumar1">Kartik Kumar</a>
 </div>
+
+
+
+Frontend: https://kartik99kumar1.github.io/RAG_Support_Chat_Assistant_P01/
+Backend: https://rag-support-chat-assistant-p01.onrender.com
