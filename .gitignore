@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+vevn/
+chroma_db/
+.vscode/
+vid.mp4
